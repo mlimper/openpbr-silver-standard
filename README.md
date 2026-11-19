@@ -83,6 +83,6 @@ TODO - do we want to create a simple validator?
 
 ## Disclaimer
 
-The OpenPBR Silver Standard is an independent initiative. It has **no relation** to, and is **not approved, endorsed, sponsored or maintained** by the Academy Software Foundation (ASWF), the Linux Foundation, Adobe, Autodesk, or any other company or organization involved in the development of OpenPBR or MaterialX.
+The OpenPBR Silver Standard is an independent initiative. It has **no relation** to, and is **not approved, endorsed, sponsored or maintained** by the Academy Software Foundation (ASWF), the Linux Foundation, or any company or organization involved in the development of OpenPBR or MaterialX.
 
 It does not speak for those projects, and nothing here should be read as an official position of theirs. The authoritative specifications are the [OpenPBR specification](https://academysoftwarefoundation.github.io/OpenPBR/) and the [MaterialX specification](https://github.com/AcademySoftwareFoundation/MaterialX/tree/main/documents/Specification). Where this document and those specifications disagree, they take precedence.
